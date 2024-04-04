@@ -1,4 +1,4 @@
-<img src="banner.png">
+<img src="banner.png" alt="banner">
 <h1 align="center">Hello, World! 🌍 I'm Yash Gupta, the Architect of the Web 🚀</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <h4>👨‍💻 About Me</h4>
