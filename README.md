@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Yash Gupta</h1>
+<h1 align="center">Hello, World! 🌍 I'm Yash Gupta, the Architect of the Web 🚀</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<h4>👨‍💻 About Me</h4>
+<p>Welcome to my corner of the internet! I'm a Frontend Maestro specializing in HTML, CSS, JavaScript, and React. With a passion for pixel-perfect designs and seamless user experiences, I thrive on turning innovative ideas into interactive realities.</p>
 <img align="right" alt="Coding Gif" width="400"
     src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
@@ -8,14 +10,14 @@
 
 - 🌱 I’m currently learning **NodeJS, FullStack**
 
-- 👨‍💻 All of my projects are available at [https://codewithyash.in/](https://codewithyash.in/)
+- 👨‍💻 All of my projects are available at [My Universe](https://codewithyash.in/)
 
 - 💬 Ask me about **JavaScript, React**
 
 - 📫 How to reach me **itsyashgupta64@gmail.com**
 
 - 📄 Know about my experiences
-[https://drive.google.com/file/d/1zmOsAKgsMdAkeasfwriVTvm0EP_tU2AI/view?usp=sharing](https://drive.google.com/file/d/1zmOsAKgsMdAkeasfwriVTvm0EP_tU2AI/view?usp=sharing)
+[Yash Gupta](https://drive.google.com/file/d/1zmOsAKgsMdAkeasfwriVTvm0EP_tU2AI/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am who I am**
 
@@ -32,7 +34,15 @@
             alt="yash_fan21" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h2>💡 What I Bring to the Table</h2>
+<p>Languages: HTML, CSS, JavaScript</p>
+<p>Frameworks/Libraries: React</p>
+<p>Tools: Git, npm</p>
+<p>Superpowers: Transforming wireframes into wonders, debugging like a detective, and unleashing the full potential of UI/UX.</p>
+
+
+ <!-- <h3 align="left">Languages and Tools:</h3> -->
+
 <p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg"
             alt="angularjs" width="40" height="40" /> </a> <a href="https://getbootstrap.com" target="_blank"
